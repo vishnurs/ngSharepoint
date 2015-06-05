@@ -8,3 +8,10 @@ An AngularJS directive to get the total number of list and libraries in a ShareP
 3. Or Add the script in the document library and refer it in the webpart.
 4. Total Number of list and libraries in the site will be shown.
 
+## Contributing
+
+Pull requests are appreciated.
+
+## License
+
+MIT Licence
