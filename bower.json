@@ -1,0 +1,17 @@
+{
+  "name": "ngSharepoint",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vishnurs/ngSharepoint",
+  "authors": [
+    "vishnu"
+  ],
+  "description": "An AngularJS directive to get the total number of list and libraries from the Sharepoint Site.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
